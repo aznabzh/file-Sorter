@@ -1,2 +1,4 @@
 # file-Sorter
-Just a small file sorter for myself in the download folder
+
+Ce dépôt est en cours de création
+Les fichiers et le code source seront ajoutés prochainement
